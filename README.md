@@ -18,7 +18,7 @@
 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">I am a Front End Developer  based in Charlotte, NC.
 
-- :telescope: I’m working as a Mobile App Development intern building apps in Flutter.
+- :telescope: I’m currently working as a Software Development intern building mobile apps in Flutter.
 
 - :seedling: Working towards an A.S. in Information Technology with a concentration in Software Development.
 
