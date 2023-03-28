@@ -18,7 +18,7 @@
 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">I am a Front End Developer  based in Charlotte, NC.
 
-- :telescope: I’m currently developing a 2d platforming game in JavaScript.
+- :telescope: I’m currently developing a 2d platforming game in JavaScript with the hopes of releasing it on Itch.io.
 
 - :seedling: Working towards an A.S. in Information Technology with a concentration in Software Development.
 
