@@ -16,7 +16,7 @@
 
 ### 👨‍💻 About Me :
 
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">I am a Front End Developer  based in Charlotte, NC.
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">I am a Full-Stack Developer  based in Charlotte, NC.
 
 - :telescope: I’m currently developing a 2d platforming game in JavaScript.
 
