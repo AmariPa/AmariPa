@@ -22,7 +22,7 @@
 
 - :seedling: Working towards an A.S. in Information Technology with a concentration in Software Development.
 
-- :zap: In my free time, I relax with my dog, watch football, and build Front End applications.
+- :zap: In my free time, I relax with my dog, watch football, and write code.
  
 ---
 ### :hammer_and_wrench: Languages and Tools :
