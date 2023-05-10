@@ -18,7 +18,7 @@
 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">I am a Full-Stack Developer  based in Charlotte, NC.
 
-- :telescope: I’m currently developing a 2d platforming game in JavaScript.
+- :telescope: I’m currently working on developing my skills in the MERN tech stack.
 
 - :seedling: Working towards an A.S. in Information Technology with a concentration in Software Development.
 
