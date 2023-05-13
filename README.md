@@ -20,7 +20,7 @@
 
 - :telescope: I’m currently working on developing my skills in the MERN tech stack.
 
-- :seedling: Working towards an A.S. in Information Technology with a concentration in Software Development.
+- :seedling: Working towards an AAS in Information Technology with a concentration in Software Development.
 
 - :zap: In my free time, I relax with my dog and watch sports.
  
