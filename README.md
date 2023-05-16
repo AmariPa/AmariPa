@@ -22,7 +22,7 @@
 
 - :seedling: Working towards an AAS in Information Technology with a concentration in Software Development.
 
-- :zap: In my free time, I relax with my dog and watch sports.
+- :zap: In my free time, I relax with my dog, watch sports, and learn Japanese.
  
 ---
 ### :hammer_and_wrench: Languages and Tools :
