@@ -16,13 +16,13 @@
 
 ### 👨‍💻 About Me :
 
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">I am a Full-Stack Developer  based in Charlotte, NC.
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">I am a Full-Stack Developer  based in Charlotte, NC. 
 
-- :telescope: I’m currently working on developing my skills in the MERN tech stack. I'm also taking Meta's React Native Specialization courses through Coursera.
+- :telescope: I'm currently taking two classes on Coursera. User Interface Specialization by the University of Minnesota Meta React Native Specialization by Meta.
 
 - :seedling: Working towards an AAS in Information Technology with a concentration in Software Development.
 
-- :zap: In my free time, I relax with my dog, watch sports, and learn Japanese.
+- :zap: In my free time I like to relax with my dog, watch sports, and learn Japanese.
  
 ---
 ### :hammer_and_wrench: Languages and Tools :
