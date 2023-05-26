@@ -18,7 +18,7 @@
 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">I am a Full-Stack Developer  based in Charlotte, NC.
 
-- :telescope: I’m currently working on developing my skills in the MERN tech stack.
+- :telescope: I’m currently working on developing my skills in the MERN tech stack. I'm also taking Meta's React Native Specialization courses through Coursera.
 
 - :seedling: Working towards an AAS in Information Technology with a concentration in Software Development.
 
