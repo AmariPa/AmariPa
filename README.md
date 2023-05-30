@@ -18,10 +18,10 @@
 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">I am a Full-Stack Developer  based in Charlotte, NC. 
 
-- :telescope: Currently undertaking the User Interface Design Specialization by the University of Minnesota through Coursera.
-
 - :seedling: Working towards an AAS in Information Technology with a concentration in Software Development.
-
+  
+- 🧠 Familiarizing myself with Python in order to further my programming skills. 
+  
 - :zap: In my free time I like to relax with my dog, watch sports, and learn Japanese.
  
 ---
