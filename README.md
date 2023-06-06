@@ -20,7 +20,7 @@
 
 - :seedling: Working towards an AAS in Information Technology with a concentration in Software Development.
   
-- 🧠 Familiarizing myself with Python in order to further my programming skills. 
+- 🧠 Familiarizing myself with Python in order to further my backend skills. 
   
 - :zap: In my free time I like to relax with my dog, watch sports, and learn Japanese.
  
