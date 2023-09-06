@@ -20,7 +20,7 @@
 
 - :seedling: Working towards an AAS in Information Technology with a concentration in Software Development.
   
-- 🧠 Currently working as a Software Production Intern and a UI Designer/Developer at two startups. 
+- 🧠 Currently working as a UI/UX Developer and 2D JavaScript game developer. 
   
 - :zap: In my free time I spend time with my dog, watch sports, and learn Japanese.
  
