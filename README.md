@@ -20,7 +20,7 @@
 
 - :seedling: Working towards an AAS in Information Technology with a concentration in Software Development.
   
-- 🧠 Currently working as a UI/UX Developer. 
+- 🧠 Currently looking for my next developer role.
   
 - :zap: In my free time I spend time with my dog, watch sports, and learn Japanese.
  
