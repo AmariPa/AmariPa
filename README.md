@@ -22,7 +22,7 @@
   
 - 🧠 Currently looking for my next developer role.
   
-- :zap: In my free time I spend time with my dog, watch sports, and learn Japanese.
+- :zap: In my free time I spend time with my dog, watch sports, and work out.
  
 ---
 ### :hammer_and_wrench: Languages and Tools :
