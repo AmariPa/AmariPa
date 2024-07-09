@@ -16,9 +16,9 @@
 
 ### 👨‍💻 About Me :
 
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">I am a Front-End developer based in Charlotte, NC. 
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">I am a Full-Stack developer based in Charlotte, NC. 
 
-- :seedling: Working towards an AAS in Information Technology with a concentration in Software Development.
+- :seedling: Working towards an AAS in Information Technology with a concentration in Full-Stack Development.
   
 - 🧠 Currently looking for my next developer role.
   
